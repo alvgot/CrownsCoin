@@ -1,9 +1,9 @@
-Building DarkCoin
+Building CrownsCoin
 
-See doc/readme-qt.rst for instructions on building DarkCoin-Qt,
+See doc/readme-qt.rst for instructions on building CrownsCoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of DarkCoin.
+implementation of CrownsCoin.
 
-See doc/build-*.txt for instructions on building darkcoind,
+See doc/build-*.txt for instructions on building crownscoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of DarkCoin.
+implementation of CrownsCoin.
