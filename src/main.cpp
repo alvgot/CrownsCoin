@@ -1271,7 +1271,7 @@ unsigned int static KimotoGravityWell(const CBlockIndex* pindexLast, const CBloc
     return bnNew.GetCompact();
 }
 
-unsigned int static coinGravityWave(const CBlockIndex* pindexLast, const CBlockHeader *pblock) {
+unsigned int static DarkGravityWave(const CBlockIndex* pindexLast, const CBlockHeader *pblock) {
     /* current difficulty formula, CrownsCoin - DarkGravity, written by Evan Duffield - evan@CrownsCoin.io */
     const CBlockIndex *BlockLastSolved = pindexLast;
     const CBlockIndex *BlockReading = pindexLast;
