@@ -4,7 +4,7 @@ suites:
 - "lucid"
 architectures:
 - "i386"
-- "amd64"
+#- "amd64"
 packages: 
 - "libdb4.8++-dev"
 - "qt4-qmake"
